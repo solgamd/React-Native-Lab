@@ -11,7 +11,7 @@ export default class App extends React.Component<AppProps, AppState> {
   }
 
   buttonTwo = () => {
-    Alert.alert('That sucks, bud. Do smething nice for yourself today!')
+    Alert.alert('That sucks, bud. Do something nice for yourself today!')
   }
 
   render() {

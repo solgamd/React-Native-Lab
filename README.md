@@ -1,8 +1,8 @@
-#React Native Lab
+# React Native Lab
 
 This is a lab within the Covalence curriculum to help learn and explore how to build a mobile app with React Native.
 
-#Steps
+# Steps
 Installing Expo CLI
 - Use the video walkthrough and reference materials to get Expo CLI installed on your machine and reporting a version
 expo --version should respond with 2.xx.x or higher in your terminal
